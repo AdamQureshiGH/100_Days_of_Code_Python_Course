@@ -1,6 +1,6 @@
 type: theory
 files:
-  - name: task.py
+  - name: heads_or_tails.py
     visible: true
     learner_created: false
   - name: solution.py
