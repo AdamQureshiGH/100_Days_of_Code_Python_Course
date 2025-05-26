@@ -5,29 +5,75 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="112f4c8b-05f2-4caa-85a9-cab3cbb965a8" name="Changes" comment="Hangman Full Game">
+      <change afterPath="$PROJECT_DIR$/Day 11/mainImproved.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 8/Caesar Cipher 1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 8/Caesar Cipher 1/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 8/Caesar Cipher 2/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 8/Caesar Cipher 2/solution.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 8/Caesar Cipher 2/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 8/Caesar Cipher 2/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 8/Caesar Cipher 2/task.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 8/Caesar Cipher 3/art.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 8/Caesar Cipher 1/art.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 8/Caesar Cipher 3/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 8/Caesar Cipher 3/solution.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 9/Blind Auction Project/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 9/Blind Auction Project/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 9/Dictionaries/solution.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 9/Dictionaries/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 9/Dictionaries/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 9/Dictionaries/task.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 9/Dictionaries/task.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 9/Nested Lists and Dictionaries/solution.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 9/Nested Lists and Dictionaries/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 9/Nested Lists and Dictionaries/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 9/Nested Lists and Dictionaries/task.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 9/Nested Lists and Dictionaries/task.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 9/lesson-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 9/lesson-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 10/Calculator Project/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 10/Calculator Project/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 10/Calculator Project/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 10/Calculator Project/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 10/Calculator Project/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 10/Calculator Project/task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 10/Docstrings/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 10/Docstrings/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 10/Docstrings/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 10/Docstrings/task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 10/Docstrings/task.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 10/Functions with Outputs/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 10/Functions with Outputs/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 10/Functions with Outputs/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 10/Functions with Outputs/task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 10/Functions with Outputs/task.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 10/Multiple Return Values/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 10/Multiple Return Values/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 10/Multiple Return Values/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 10/Multiple Return Values/task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 10/Multiple Return Values/task.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 10/lesson-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 10/lesson-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 11/Blackjack Project/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 11/Blackjack Project/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 11/Blackjack Project/task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 11/lesson-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 11/lesson-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 11/task/art.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 11/art.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 11/task/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 11/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 11/task/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 12/Block Scope/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 12/Block Scope/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 12/Block Scope/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 12/Block Scope/task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 12/Block Scope/task.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 12/Global Constants/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 12/Global Constants/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 12/Global Constants/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 12/Global Constants/task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 12/Global Constants/task.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 12/Global Vars/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 12/Global Vars/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 12/Global Vars/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 12/Global Vars/task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 12/Global Vars/task.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 12/Namespaces and Scope/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 12/Namespaces and Scope/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 12/Namespaces and Scope/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 12/Namespaces and Scope/task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 12/Namespaces and Scope/task.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 12/Number Guessing Project/art.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 12/Number Guessing Project/art.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 12/Number Guessing Project/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 12/Number Guessing Project/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 12/Number Guessing Project/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 12/Number Guessing Project/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 12/Number Guessing Project/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 12/Number Guessing Project/task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 12/lesson-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 12/lesson-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 16-100/Where are the rest of the days/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 16-100/Where are the rest of the days/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 16-100/Where are the rest of the days/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 16-100/Where are the rest of the days/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 16-100/Where are the rest of the days/task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 16-100/lesson-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 16-100/lesson-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,21 +133,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Edu.LearningObjectsStorageType": "SQLite",
-    "Python.cyoa_game.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.password_generator.executor": "Run",
-    "Python.pizza.executor": "Run",
-    "Python.rock_paper_scissors.executor": "Run",
-    "Python.task.executor": "Run",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "my__branch",
-    "last_opened_file_path": "C:/Users/adamy/PycharmProjects",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Edu.LearningObjectsStorageType&quot;: &quot;SQLite&quot;,
+    &quot;Python.cyoa_game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.password_generator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pizza.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rock_paper_scissors.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;my__branch&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/adamy/PycharmProjects&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\adamy\PycharmProjects\100 Days of Code - The Complete Python Pro Bootcamp\Day 8\Caesar Cipher 1" />
@@ -257,5 +303,16 @@
     <MESSAGE value="optimized unoptimal code" />
     <MESSAGE value="Hangman Full Game" />
     <option name="LAST_COMMIT_MESSAGE" value="Hangman Full Game" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Day 12/Number Guessing Project/main.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
