@@ -26,3 +26,5 @@ for i in range(attempts):
     else:
         print("You win!")
         break
+    if attempts == 0:
+        print("YOU LOSE!")

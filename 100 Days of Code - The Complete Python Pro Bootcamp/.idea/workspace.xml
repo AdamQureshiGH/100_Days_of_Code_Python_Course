@@ -4,76 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="112f4c8b-05f2-4caa-85a9-cab3cbb965a8" name="Changes" comment="Hangman Full Game">
-      <change afterPath="$PROJECT_DIR$/Day 11/mainImproved.py" afterDir="false" />
+    <list default="true" id="112f4c8b-05f2-4caa-85a9-cab3cbb965a8" name="Changes" comment="Guessing full game">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 10/Calculator Project/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 10/Calculator Project/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 10/Calculator Project/solution.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 10/Calculator Project/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 10/Calculator Project/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 10/Calculator Project/task.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 10/Docstrings/solution.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 10/Docstrings/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 10/Docstrings/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 10/Docstrings/task.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 10/Docstrings/task.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 10/Functions with Outputs/solution.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 10/Functions with Outputs/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 10/Functions with Outputs/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 10/Functions with Outputs/task.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 10/Functions with Outputs/task.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 10/Multiple Return Values/solution.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 10/Multiple Return Values/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 10/Multiple Return Values/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 10/Multiple Return Values/task.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 10/Multiple Return Values/task.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 10/lesson-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 10/lesson-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 11/Blackjack Project/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 11/Blackjack Project/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 11/Blackjack Project/task.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 11/lesson-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 11/lesson-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 11/task/art.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 11/art.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 11/task/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 11/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 11/task/solution.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 12/Block Scope/solution.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 12/Block Scope/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 12/Block Scope/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 12/Block Scope/task.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 12/Block Scope/task.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 12/Global Constants/solution.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 12/Global Constants/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 12/Global Constants/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 12/Global Constants/task.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 12/Global Constants/task.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 12/Global Vars/solution.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 12/Global Vars/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 12/Global Vars/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 12/Global Vars/task.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 12/Global Vars/task.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 12/Namespaces and Scope/solution.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 12/Namespaces and Scope/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 12/Namespaces and Scope/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 12/Namespaces and Scope/task.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 12/Namespaces and Scope/task.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 12/Number Guessing Project/art.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 12/Number Guessing Project/art.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Day 12/Number Guessing Project/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 12/Number Guessing Project/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 12/Number Guessing Project/solution.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 12/Number Guessing Project/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 12/Number Guessing Project/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 12/Number Guessing Project/task.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 12/lesson-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 12/lesson-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 16-100/Where are the rest of the days/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 16-100/Where are the rest of the days/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 16-100/Where are the rest of the days/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 16-100/Where are the rest of the days/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 16-100/Where are the rest of the days/task.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 16-100/lesson-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 16-100/lesson-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -245,7 +178,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742676193045</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Guessing full game">
+      <option name="closed" value="true" />
+      <created>1748283375696</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1748283375696</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -302,17 +243,7 @@
     <MESSAGE value="Day 5 going strong!" />
     <MESSAGE value="optimized unoptimal code" />
     <MESSAGE value="Hangman Full Game" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hangman Full Game" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Day 12/Number Guessing Project/main.py</url>
-          <line>7</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Guessing full game" />
+    <option name="LAST_COMMIT_MESSAGE" value="Guessing full game" />
   </component>
 </project>
