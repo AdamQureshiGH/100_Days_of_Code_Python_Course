@@ -17,10 +17,10 @@ while(len(s) < total_characters):
     if(num == 0 and nr_used_letters < nr_letters):
         s+= random.choice(letters)
         nr_used_letters += 1
-    if (num == 1 and nr_used_symbols < nr_symbols):
+    elif (num == 1 and nr_used_symbols < nr_symbols):
         s+= random.choice(symbols)
         nr_used_symbols += 1
-    if (num == 2 and nr_used_numbers < nr_numbers):
+    elif (num == 2 and nr_used_numbers < nr_numbers):
         s+= random.choice(numbers)
         nr_used_numbers += 1
 print(s)

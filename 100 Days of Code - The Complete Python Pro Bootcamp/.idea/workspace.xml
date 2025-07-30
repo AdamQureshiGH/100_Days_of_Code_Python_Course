@@ -4,59 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="112f4c8b-05f2-4caa-85a9-cab3cbb965a8" name="Changes" comment="Day 4 going strong!">
-      <change afterPath="$PROJECT_DIR$/Day 5/add_one_to_hundred.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 5/find_highest_num.py" afterDir="false" />
+    <list default="true" id="112f4c8b-05f2-4caa-85a9-cab3cbb965a8" name="Changes" comment="Guessing full game">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 4/Banker Roulette/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 4/banker_roulette_practice.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 4/Banker Roulette/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 4/Banker Roulette/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 4/Banker Roulette/task.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 4/Banker Roulette/task.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 4/IndexError/solution.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 4/IndexError/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 4/IndexError/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 4/IndexError/task.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 4/IndexError/task.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 4/Lists/solution.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 4/Lists/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 4/Lists/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 4/Lists/task.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 4/Lists/task.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 4/Random Module/heads_or_tails.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 4/heads_or_tails.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 4/Random Module/solution.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 4/Random Module/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 4/Random Module/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 4/Random Module/task.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 4/Rock Paper Scissors/solution.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 4/Rock Paper Scissors/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 4/Rock Paper Scissors/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 4/Rock Paper Scissors/task.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 4/Rock Paper Scissors/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 4/rock_paper_scissors.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 4/lesson-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 4/lesson-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 5/For Loops with Range/solution.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 5/For Loops with Range/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 5/For Loops with Range/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 5/For Loops with Range/task.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 5/For Loops with Range/task.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 5/For Loops/solution.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 5/For Loops/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 5/For Loops/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 5/For Loops/task.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 5/For Loops/task.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 5/Highest Score/solution.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 5/Highest Score/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 5/Highest Score/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 5/Highest Score/task.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 5/Highest Score/task.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 5/Password Generator Project/solution.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 5/Password Generator Project/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 5/Password Generator Project/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 5/Password Generator Project/task.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 5/Password Generator Project/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 5/password_generator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 5/lesson-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 5/lesson-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 12/Number Guessing Project/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 12/Number Guessing Project/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,6 +38,16 @@
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/AdamQureshiGH/100_Days_of_Code_Python_Course.git&quot;,
     &quot;accountId&quot;: &quot;dcb4ca29-2518-4c20-a1ba-a0e397b010c9&quot;
+  },
+  &quot;recentNewPullRequestHead&quot;: {
+    &quot;server&quot;: {
+      &quot;useHttp&quot;: false,
+      &quot;host&quot;: &quot;github.com&quot;,
+      &quot;port&quot;: null,
+      &quot;suffix&quot;: null
+    },
+    &quot;owner&quot;: &quot;AdamQureshiGH&quot;,
+    &quot;repository&quot;: &quot;100_Days_of_Code_Python_Course&quot;
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
@@ -110,22 +70,24 @@
   &quot;keyToString&quot;: {
     &quot;Edu.LearningObjectsStorageType&quot;: &quot;SQLite&quot;,
     &quot;Python.cyoa_game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.password_generator.executor&quot;: &quot;Run&quot;,
     &quot;Python.pizza.executor&quot;: &quot;Run&quot;,
     &quot;Python.rock_paper_scissors.executor&quot;: &quot;Run&quot;,
     &quot;Python.task.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;my__branch&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/adamy/PycharmProjects&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\adamy\PycharmProjects\100 Days of Code - The Complete Python Pro Bootcamp\Day 8\Caesar Cipher 1" />
+      <recent name="C:\Users\adamy\PycharmProjects\100 Days of Code - The Complete Python Pro Bootcamp\Day 7\task" />
+      <recent name="C:\Users\adamy\PycharmProjects\100 Days of Code - The Complete Python Pro Bootcamp\Day 7" />
       <recent name="C:\Users\adamy\PycharmProjects\100 Days of Code - The Complete Python Pro Bootcamp\Day 5" />
       <recent name="C:\Users\adamy\PycharmProjects\100 Days of Code - The Complete Python Pro Bootcamp\password_generator" />
-      <recent name="C:\Users\adamy\PycharmProjects\100 Days of Code - The Complete Python Pro Bootcamp\Day 4" />
-      <recent name="C:\Users\adamy\PycharmProjects\100 Days of Code - The Complete Python Pro Bootcamp\Day 3\Day 3 Projects" />
-      <recent name="C:\Users\adamy\PycharmProjects\100 Days of Code - The Complete Python Pro Bootcamp\Day 3\Treasure Island Project" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -192,7 +154,39 @@
       <option name="project" value="LOCAL" />
       <updated>1742168155395</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Day 5 going strong!">
+      <option name="closed" value="true" />
+      <created>1742178922632</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1742178922632</updated>
+    </task>
+    <task id="LOCAL-00008" summary="optimized unoptimal code">
+      <option name="closed" value="true" />
+      <created>1742180521355</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1742180521355</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Hangman Full Game">
+      <option name="closed" value="true" />
+      <created>1742676193045</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1742676193045</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Guessing full game">
+      <option name="closed" value="true" />
+      <created>1748283375696</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1748283375696</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -246,6 +240,10 @@
     <MESSAGE value="Added Description" />
     <MESSAGE value="Day 3 going strong!" />
     <MESSAGE value="Day 4 going strong!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 4 going strong!" />
+    <MESSAGE value="Day 5 going strong!" />
+    <MESSAGE value="optimized unoptimal code" />
+    <MESSAGE value="Hangman Full Game" />
+    <MESSAGE value="Guessing full game" />
+    <option name="LAST_COMMIT_MESSAGE" value="Guessing full game" />
   </component>
 </project>
