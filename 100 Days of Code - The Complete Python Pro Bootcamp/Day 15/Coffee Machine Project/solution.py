@@ -31,6 +31,7 @@ resources = {
     "coffee": 100,
 }
 
+#this is a test
 
 def is_resource_sufficient(order_ingredients):
     """Returns True when order can be made, False if ingredients are insufficient."""
